@@ -10,7 +10,7 @@
 //#define DEBUG
 
 namespace sjtu {
-    static const char WRITE_PATH[256] = "C:\\Users\\86150\\Desktop\\records.txt";
+    static const char WRITE_PATH[256] = "records.txt";
     //static const int UNIT = 4096;
     static const int UNIT = 4096;
 
